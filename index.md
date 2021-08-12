@@ -2,6 +2,8 @@
 
 City of Mist campaign where the "Rifts" have "Mythoi" of gods and deities from mythology.
 
+Theme: **Consequences**
+
 ## Protagonists
 
 |   Logos           |   Mythos      |   Concept
@@ -16,8 +18,28 @@ City of Mist campaign where the "Rifts" have "Mythoi" of gods and deities from m
 |-------------------|---------------|------------------
 |   [Jerry Dandrige](docs/morpheus.html "Jerry Dandrige") |   [Morpheus](docs/morpheus.html "Morpheus")      |   God of Sleep and Dreams
 
+## Supporting Cast
 
-Theme: **Consequences**
+|   Name                            |   Concept      
+|----------------------------------|------------------
+|   [Meg](docs/meg.html "Megan")    |   Graduated from Mist High School with protagonists
+
+
+
+
+## Issues
+
+### Current
+
+* Why did Meg bite Stanley's ear and disappear at the reunion?
+* Who owns the gas truck driving away from the scene?  Who was driving it?
+* How can Morpheus be stopped from controlling sleepers from prison?
+
+### Pending
+
+* Why do we have powers?
+* What is going on with The City?
+
 
 ## Session Summaries
 
