@@ -10,4 +10,12 @@ Protagonists are:
 |   Hank Archer     |   Prometheus  |   Titan of Fire, Author of Human Arts and Sciences
 |   Stanley Mann    |   Loki        |   The Trickster
 
+Antagonist
+
+|   Logos           |   Mythos      |   Concept
+|-------------------|---------------|------------------
+|   [Jerry Dandrige](docs/morpheus.html "Jerry Dandrige") |   [Morpheus](docs/morpheus.html "Morpheus")      |   God of Sleep and Dreams
+
+
 Theme: **Consequences**
+
