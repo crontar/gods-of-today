@@ -26,7 +26,7 @@ Yet there was a duality to Gerrard's life. He manifested his powers when a gang 
 
 ## Marduk, God of Justic
 
-![Marduk](assets/images/Marduk.jpeg "Marduk")
+![Marduk](assets/images/marduk.jpeg "Marduk")
 
 He felt the surge of the Indominable Will replenish his body. While still bloody and broken, his drive overcame the pain receptors and he threw off his attackers. Raising his hand, he called down The Mace of Shedu, his spiked cudgel, to dispense justice to those who oppose the law. Justice was dispensed quickly. Then raising his hand to his ear, Elemental Whispers gave him signs, portents, and direct clues as to the reason for his attack. It was Morpheus. Evidently, the bars of prison would not contain that particular fiend. However, now Morpheus would need to content with both Gerrard Malleus and Marduk; the fight will be in the courtroom and in the streets.
 
