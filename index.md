@@ -6,7 +6,7 @@ Protagonists are:
 
 |   Logos           |   Mythos      |   Concept
 |-------------------|---------------|------------------
-|   [Gerrard Malleus](gerrard.md "Gerrard Malleus") |   [Marduk](marduk.md "Marduk")      |   God of Justice
+|   [Gerrard Malleus](docs/gerrard.md "Gerrard Malleus") |   [Marduk](docs/marduk.md "Marduk")      |   God of Justice
 |   Hank Archer     |   Prometheus  |   Titan of Fire, Author of Human Arts and Sciences
 |   Stanley Mann    |   Loki        |   The Trickster
 

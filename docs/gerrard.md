@@ -1,7 +1,7 @@
-[Home](index.md "Home")
+[Home](../index.md "Home")
 
 # Gerrard Malleus
-![Gerrard Malleus](assets/images/gerrard.jpeg "Gerrard Malleus")
+![Gerrard Malleus](../assets/images/gerrard.jpeg "Gerrard Malleus")
 
 “Let the first act of every morning be to make the following resolve for the day:
 * I shall not fear anyone on Earth.
