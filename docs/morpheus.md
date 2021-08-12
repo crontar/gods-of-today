@@ -3,7 +3,7 @@
 # Jerry Dandrige
 ![Jerry Dandrige](../assets/images/jerry.jpeg "Jerry Dandrige")
 
-Mob boss.  In jail on some trumped up minor charges that Gerrard was able to make "stick".  
+Mob boss.  In jail on some trumped up minor charges that [Gerrard Malleus](docs/gerrard.html "Gerrard Malleus") was able to make "stick".  
 
 Mythos is "Morpheus".
 
