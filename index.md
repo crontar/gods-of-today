@@ -2,7 +2,7 @@
 
 City of Mist campaign where the "Rifts" have "Mythoi" of gods and deities from mythology.
 
-Protagonists are:
+## Protagonists
 
 |   Logos           |   Mythos      |   Concept
 |-------------------|---------------|------------------
@@ -10,7 +10,7 @@ Protagonists are:
 |   Hank Archer     |   Prometheus  |   Titan of Fire, Author of Human Arts and Sciences
 |   Stanley Mann    |   Loki        |   The Trickster
 
-Antagonist
+## Antagonist
 
 |   Logos           |   Mythos      |   Concept
 |-------------------|---------------|------------------
@@ -19,3 +19,10 @@ Antagonist
 
 Theme: **Consequences**
 
+## Session Summaries
+
+|   Date        |   Title       |   Summary
+|---------------|---------------|------------------
+|   July 10     |   Session 0   |   Created basic group concept and rifts
+|   July 23     |   Session 1   |   Finished concepts and went to high school reunion to save Meg and others    
+|   August 13   |   Session 2   |   ???
