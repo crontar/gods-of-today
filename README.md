@@ -4,6 +4,10 @@ This project holds the static web resources that are used by Github Jekyll site 
 static web site for this game.  If you are interested in contributing, create a branch and make a pull request
 or submit contect directly to me or some that can update stuff it GitHub.
 
+https://crontar.github.io/gods-of-today/
+
+## Updating site
+
 `/assets/images`
 
 JPEG picture files for embedding in MD files that get converted to HTML
