@@ -8,7 +8,7 @@ Theme: **Consequences**
 
 |   Logos   |   Profession           |   Mythos      |   Concept
 |-----------|--------|---------------|------------------
-|   [Gerrard Malleus](docs/gerrard.html "Gerrard Malleus") | Asst DA |   [Marduk](docs/marduk.html "Marduk")      |   God of Justice
+|   [Gerrard Malleus](docs/gerrard.html "Gerrard Malleus") | Assistant District Attorney |   [Marduk](docs/marduk.html "Marduk")      |   God of Justice
 |   Hank Archer | White Hat                      |   Prometheus  |   Titan of Fire
 |   Stanley Mann | High School Footbal Coach     |   Loki        |   The Trickster
 
