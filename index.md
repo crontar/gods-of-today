@@ -6,17 +6,17 @@ Theme: **Consequences**
 
 ## Protagonists
 
-|   Logos           |   Mythos      |   Concept
-|-------------------|---------------|------------------
-|   [Gerrard Malleus](docs/gerrard.html "Gerrard Malleus") |   [Marduk](docs/marduk.html "Marduk")      |   God of Justice
-|   Hank Archer     |   Prometheus  |   Titan of Fire, Author of Human Arts and Sciences
-|   Stanley Mann    |   Loki        |   The Trickster
+|   Logos   |   Profession           |   Mythos      |   Concept
+|-----------|--------|---------------|------------------
+|   [Gerrard Malleus](docs/gerrard.html "Gerrard Malleus") | Asst DA |   [Marduk](docs/marduk.html "Marduk")      |   God of Justice
+|   Hank Archer | White Hat                      |   Prometheus  |   White Hat / Titan of Fire, Author of Human Arts and Sciences
+|   Stanley Mann | High School Footbal Coach     |   Loki        |   The Trickster
 
 ## Antagonist
 
-| Headshot |   Logos            |   Mythos      |   Concept
-|----------|--------------------|---------------|------------------
-| ![Jerry](assets/images/jerry.png "Jerry")  | [Jerry Dandrige](docs/morpheus.html "Jerry Dandrige") |   [Morpheus](docs/morpheus.html "Morpheus")      |   Drug boss / God of Sleep and Dreams
+| Headshot |   Logos  | Profession  |   Mythos      |   Concept
+|----------|----------|-------------|---------------|------------------
+| ![Jerry](assets/images/jerry.png "Jerry") | [Jerry Dandrige](docs/morpheus.html "Jerry Dandrige") | Drug boss |   [Morpheus](docs/morpheus.html "Morpheus")      |   God of Sleep and Dreams
 
 ## Supporting Cast
 
