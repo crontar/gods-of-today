@@ -14,15 +14,15 @@ Theme: **Consequences**
 
 ## Antagonist
 
-|   Logos           |   Mythos      |   Concept
-|-------------------|---------------|------------------
-|   [Jerry Dandrige](docs/morpheus.html "Jerry Dandrige") |   [Morpheus](docs/morpheus.html "Morpheus")      |   God of Sleep and Dreams
+| Headshot |   Logos            |   Mythos      |   Concept
+|----------|--------------------|---------------|------------------
+| ![Jerry](assets/images/jerry.png "Jerry")  | [Jerry Dandrige](docs/morpheus.html "Jerry Dandrige") |   [Morpheus](docs/morpheus.html "Morpheus")      |   God of Sleep and Dreams
 
 ## Supporting Cast
 
-|   Name                            |   Concept      
-|----------------------------------|------------------
-|   [Meg](docs/meg.html "Megan")    |   Graduated from Mist High School with protagonists
+| Headshot  |   Name                            |   Concept      
+|-----------|-------------------------------|------------------
+| ![Meg](assets/images/meg.png "Meg")   |[Meg](docs/meg.html "Megan")    |   Graduated from Mist High School with protagonists
 
 
 
